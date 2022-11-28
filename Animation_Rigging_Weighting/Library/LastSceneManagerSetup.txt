@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Andris/Scenes/Animation_Blend_tree.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

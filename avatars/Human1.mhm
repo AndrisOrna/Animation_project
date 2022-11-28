@@ -1,0 +1,27 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+camera 32.0 20.0 0.9178036013561893 0.6753194646799212 0.8000356099282109 2.0375000000000005
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.500000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.270000
+modifier macrodetails-proportions/BodyProportions 0.500000
+hair short02 c104cd4a-1edc-43f9-8b94-f63345a44638
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose tpose.bvh
+clothes male_worksuit01 6afd98fa-381b-456f-aa46-3dd15b27b2f0
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+expression doubt01.mhpose
+skinMaterial skins/middleage_caucasian_female/middleage_caucasian_female.mhmat
+material short02 c104cd4a-1edc-43f9-8b94-f63345a44638 short02.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/green.mhmat
+material eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084 eyebrow001.mhmat
+subdivide False
