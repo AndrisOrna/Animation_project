@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Andris/Scenes/Animation_Blend_tree.unity
+- path: Assets/Andris/Ragdoll_folder/Ragdoll scene/Ragdoll1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
