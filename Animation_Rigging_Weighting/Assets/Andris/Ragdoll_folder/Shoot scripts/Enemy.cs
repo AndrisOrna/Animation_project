@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public Collider MainCollider;
-    public Collider [] AllColliders;
+    public Collider[] AllColliders;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,13 +18,13 @@ public class Enemy : MonoBehaviour
         // iterating in all colliders
         foreach (var col in AllColliders)
             col.enabled = isRagdoll;  // collider enabled when in ragdoll mode
-        MainCollider.enabled = !isRagdoll ;
-        GetComponent<Rigidbody>().useGravity = !isRagdoll ;
-        GetComponent<Animator>().enabled = !isRagdoll ;
+        MainCollider.enabled = !isRagdoll;
+        GetComponent<Rigidbody>().useGravity = !isRagdoll;
+        GetComponent<Animator>().enabled = !isRagdoll;
     }
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }

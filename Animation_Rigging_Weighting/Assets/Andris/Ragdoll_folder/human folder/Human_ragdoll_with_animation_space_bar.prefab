@@ -1188,7 +1188,7 @@ GameObject:
   - component: {fileID: 950402824190322964}
   - component: {fileID: 950402824190323051}
   m_Layer: 0
-  m_Name: mixamorig:Hips
+  m_Name: Hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

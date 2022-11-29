@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Andris/Ragdoll_folder/Ragdoll scene/Ragdoll1.unity
+- path: Assets/Andris/Ragdoll_folder/Ragdoll scene/Ragdoll_Dismemberment_parts.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
