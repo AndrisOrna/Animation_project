@@ -934,6 +934,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 960506b823dc00e40a3fb40039e3db57, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 960506b823dc00e40a3fb40039e3db57, type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 10982cb3995a7644284defebc4470f03, type: 2}
@@ -3156,7 +3160,7 @@ Animator:
   m_GameObject: {fileID: 4416926083347132227}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 960506b823dc00e40a3fb40039e3db57, type: 3}
-  m_Controller: {fileID: 9100000, guid: 86e35e47d76c0e8459eddf1b6d1b9acc, type: 2}
+  m_Controller: {fileID: 9100000, guid: 10982cb3995a7644284defebc4470f03, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3173,7 +3177,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4416926083347132227}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b65ce2d7a1e108f42a3e147e3d3db3bd, type: 3}
   m_Name: 

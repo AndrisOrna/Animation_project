@@ -60,6 +60,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
     <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+    <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\SimpleFPSController.cs" />
     <Compile Include="Assets\Andris\scripts\PlayerControllerMoves.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
@@ -98,6 +99,7 @@
     <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\SpaceBarPressed.cs" />
     <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\Shoot2.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\Limb.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
     <Compile Include="Assets\Andris\scripts\AnimationStateController22222.cs" />
@@ -111,8 +113,6 @@
     <Compile Include="Assets\TwoDimensionalAnimationStateControl.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\Zombie.cs" />
-    <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\Limb.cs" />
-    <Compile Include="Assets\Andris\Ragdoll_folder\Shoot scripts\SimpleFPSController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
