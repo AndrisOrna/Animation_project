@@ -182,3 +182,6 @@ public class SpaceBarPressed : MonoBehaviour
 
     }
 }
+
+# Dismemberment
+When shooting some parts of the objects it dissapears.
